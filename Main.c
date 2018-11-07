@@ -61,7 +61,7 @@ int main()
 			pos++;
 		}
 		messageDecrypted[messageLenght] = '\0';
-		printf("\Decrypted message: %s\n", messageDecrypted);
+		printf("\nDecrypted message: %s\n", messageDecrypted);
 		break;
 
 	default:
