@@ -1,0 +1,9 @@
+﻿  Main.c
+d:\facultate\teme\securitatea datelor\vigenerecrypt\vigenerecrypt\vigenerecrypt\main.c(14): warning C4013: 'gets' undefined; assuming extern returning int
+d:\facultate\teme\securitatea datelor\vigenerecrypt\vigenerecrypt\vigenerecrypt\main.c(64): warning C4129: 'D': unrecognized character escape sequence
+d:\facultate\teme\securitatea datelor\vigenerecrypt\vigenerecrypt\vigenerecrypt\main.c(71): warning C4013: 'getch' undefined; assuming extern returning int
+d:\facultate\teme\securitatea datelor\vigenerecrypt\vigenerecrypt\vigenerecrypt\main.c(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\facultate\teme\securitatea datelor\vigenerecrypt\vigenerecrypt\vigenerecrypt\main.c(87): warning C4715: 'VigenereCrypt': not all control paths return a value
+d:\facultate\teme\securitatea datelor\vigenerecrypt\vigenerecrypt\vigenerecrypt\main.c(101): warning C4715: 'VigenereDecrypt': not all control paths return a value
+  VigenereCrypt.vcxproj -> D:\Facultate\teme\securitatea datelor\VigenereCrypt\VigenereCrypt\Debug\VigenereCrypt.exe
